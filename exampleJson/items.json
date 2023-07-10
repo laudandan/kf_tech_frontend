@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "category": "Total body",
+      "0": {
+        "name": "Total Height",
+        "value": "val"
+      },
+      "1": {
+        "name": "Bust Circumference",
+        "value": "val"
+      }
+    },
+    {
+      "category": "Neck",
+      "0": {
+        "name": "Neck Base - circumference",
+        "value": "val"
+      },
+      "1": {
+        "name": "HPS Height",
+        "value": "val"
+      }
+    }
+  ]
+}
