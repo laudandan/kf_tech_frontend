@@ -2,25 +2,125 @@
   "items": [
     {
       "category": "Total body",
-      "0": {
+      "measurements" : [ {
         "name": "Total Height",
-        "value": "val"
+        "value": "177"
       },
-      "1": {
-        "name": "Bust Circumference",
-        "value": "val"
-      }
+        {
+          "name": "Bust Circumference",
+          "value": "88"
+        } ]
     },
     {
       "category": "Neck",
-      "0": {
+      "measurements" : [ {
         "name": "Neck Base - circumference",
-        "value": "val"
+        "value": "37,4"
       },
-      "1": {
-        "name": "HPS Height",
-        "value": "val"
-      }
+        {
+          "name": "HPS Height",
+          "value": "151"
+        } ]
+    },
+    {
+      "category": "Shoulder",
+      "measurements" : [ {
+        "name": "Across Shoulder",
+        "value": "37,5"
+      } ]
+    },
+    {
+      "category": "CF Neck to",
+      "measurements" : [ {
+        "name": "CF Neck to Waist",
+        "value": "37"
+      } ]
+    },
+    {
+      "category": "CB Neck to",
+      "measurements" : [ {
+        "name": "CB Neck to Waist",
+        "value": "40"
+      } ]
+    },
+    {
+      "category": "Bust",
+      "measurements" : [ {
+        "name": "Circumference",
+        "value": "88"
+      },
+        {
+          "name": "Under Bust",
+          "value": "72.5"
+        } ]
+    },
+    {
+      "category": "Apex",
+      "measurements" : [ {
+        "name": "Apex to Apex",
+        "value": "18.5"
+      },
+        {
+          "name": "HPS to Apex",
+          "value": "27"
+        } ]
+    },
+    {
+      "category": "Waist",
+      "measurements" : [ {
+        "name": "Circumference",
+        "value": "68"
+      },
+        {
+          "name": "to High Hip",
+          "value": "11.5"
+        },
+        {
+          "name": "to Low Hip",
+          "value": "23.5"
+        } ]
+    },
+    {
+      "category": "Hip",
+      "measurements" : [ {
+        "name": "High Hip",
+        "value": "80"
+      },
+        {
+          "name": "Low Hip",
+          "value": "94"
+        } ]
+    },
+    {
+      "category": "Leg",
+      "measurements" : [ {
+        "name": "Insem - Height",
+        "value": "84"
+      },
+        {
+          "name": "Thigh - Circumference",
+          "value": "54"
+        },
+        {
+          "name": "Thigh - Heigh",
+          "value": "_"
+        },
+        {
+          "name": "Knee - Circumference",
+          "value": "35"
+        },
+        {
+          "name": "Knee - Heigh",
+          "value": "_"
+        },
+        {
+          "name": "Calf",
+          "value": "34.5"
+        },
+        {
+          "name": "Ankle",
+          "value": "_"
+        }]
     }
   ]
 }
